@@ -18,14 +18,13 @@
  
   
 </p>
-
   <p align="center">
     Admin Template - Ant Deign 
     <br />
     <a href=""><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://dryserv-portal.netlify.app/">View Demo</a>
+    <a href="https://antadmintemplate.netlify.app">View Demo</a>
     ·
     <a href="https://github.com/devbrunopaula">Report Bug</a>
     ·
@@ -53,7 +52,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://dryserv-portal.netlify.app)
+[![Product Name Screen Shot][product-screenshot]](https://antadmintemplate.netlify.app)
 
 React.js Admin Template -  Ant Design
 
@@ -106,7 +105,7 @@ adonis migration:run
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://adonisjs.com/docs)_
+_For more examples, please refer to the [Documentation](https://reactjs.org/docs)_
 
 <!-- ROADMAP -->
 
@@ -136,9 +135,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@devbrunopaula](https://twitter.com/your_username) - devbrunopaula@gmail.com.com
+Your Name - [@devbrunopaula](https://twitter.com/devbrunopaula) - devbrunopaula@gmail.com
 
-Project Link: [https://github.com/devbrunopaula/CRM-API](https://github.com/devbrunopaula/CRM-API)
+Project Link: [https://github.com/devbrunopaula/antUI-dashboard](https://github.com/devbrunopaula/antUI-dashboard)
 
 <!-- ACKNOWLEDGEMENTS -->
 

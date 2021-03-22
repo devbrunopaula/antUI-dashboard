@@ -1,11 +1,5 @@
 import {Layout, Menu} from 'antd'
-import {
-  UserOutlined,
-  LaptopOutlined,
-  BellOutlined,
-  FileOutlined,
-  NotificationOutlined,
-} from '@ant-design/icons'
+import {UserOutlined, BellOutlined, FileOutlined} from '@ant-design/icons'
 const {Sider} = Layout
 const {SubMenu} = Menu
 
