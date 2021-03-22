@@ -1,70 +1,163 @@
-# Getting Started with Create React App
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/devbrunopaula/CRM-API/raw/main/bruno.jpg" alt="Logo" >
+  </a>
 
-## Available Scripts
+  <h3 align="center"></h3>
+   <h5 align="center">by</h5>
 
-In the project directory, you can run:
+  <p align="center">
+  <a href="https://brunopaula.com">Bruno Paula</a>
+  
+ 
+  
+</p>
 
-### `yarn start`
+  <p align="center">
+    Admin Template - Ant Deign 
+    <br />
+    <a href=""><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://dryserv-portal.netlify.app/">View Demo</a>
+    ·
+    <a href="https://github.com/devbrunopaula">Report Bug</a>
+    ·
+    <a href="https://github.com/devbrunopaula">Request Feature</a>
+  </p>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<!-- TABLE OF CONTENTS -->
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Table of Contents
 
-### `yarn test`
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#Setup)
+  - [Installation](#Migrations)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- ABOUT THE PROJECT -->
 
-### `yarn build`
+## About The Project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![Product Name Screen Shot][product-screenshot]](https://dryserv-portal.netlify.app)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+React.js Admin Template -  Ant Design
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Here's why:
 
-### `yarn eject`
+- Modern
+- Responsive
+- UI components
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+React Admin Panel is with Ant Design, but ant Design based components have been built from scratch as true React.js hook components, without jQuery and unneeded dependencies. If you are familiar with Bootstrap but you demand something more than it provides, then Bruno React Admin Panel is an answer.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Built With
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [ReactJS](https://reactjs.org/)
 
-## Learn More
+1. Ant Design
+2. Ant Design Icons
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- GETTING STARTED -->
 
-### Code Splitting
+## Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-### Analyzing the Bundle Size
+## Setup
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Use the adonis command to install the blueprint
 
-### Making a Progressive Web App
+```bash
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+or manually clone the repo and then run `npm install`.
 
-### Advanced Configuration
+### Migrations
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Run the following command to run startup migrations.
 
-### Deployment
+```js
+adonis migration:run
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<!-- USAGE EXAMPLES -->
 
-### `yarn build` fails to minify
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://adonisjs.com/docs)_
+
+<!-- ROADMAP -->
+
+## Roadmap
+
+See the [open issues](https://github.com/devbrunopaula) for a list of proposed features (and known issues).
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+
+## Contact
+
+Your Name - [@devbrunopaula](https://twitter.com/your_username) - devbrunopaula@gmail.com.com
+
+Project Link: [https://github.com/devbrunopaula/CRM-API](https://github.com/devbrunopaula/CRM-API)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+- [Bruno Paula](https://brunopaula.com)
+- [ReactJS](https://reactjs.org/)
+- [Ant Design](https://ant.design/)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/bruno-paula/
+[product-screenshot]: screenshot.jpg
+
+---
